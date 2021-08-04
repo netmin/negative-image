@@ -31,3 +31,5 @@ docker-compose version 1.29.1, build c34c88b2
 `docker-compose exec app python manage.py recreate_db`
 
 Swagger http://localhost:5001/doc
+
+Frontend http://localhost:3007
